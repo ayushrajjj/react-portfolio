@@ -9,6 +9,15 @@ export const ABOUT_TEXT = `I am a dedicated front-end developer with a strong fo
 
 export const EXPERIENCES = [
   {
+    year: "March 2025 - April",
+    role: "Software Developer Intern",
+    company: "Geneus Solutions",
+    description: `Working on full-stack development tasks involving frontend and backend integration. Focused on building scalable features, fixing bugs, and improving performance across modules. Collaborated with the team to deliver efficient code and enhance user experience.`,
+    technologies: ["React.js", "DevOps", "CI , CD", "JavaScript"]
+  },
+  
+
+  {
     year: "October 2024 - October 2024",
     role: "Frontend Developer Intern",
     company: "Pi Reality",
